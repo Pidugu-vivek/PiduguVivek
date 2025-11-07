@@ -11,10 +11,10 @@
 ---
 
 ### 🌐 Socials  
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="www.linkedin.com/in/pidugu-vivek" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM/" target="_blank">
+<a href="https://www.instagram.com/pidugu_vivek17/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" />
 </a>
 
