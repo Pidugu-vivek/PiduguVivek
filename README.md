@@ -65,15 +65,5 @@
 
 ---
 
-### 🚀 Featured Project
-
-**🔥 AI Mood Diary – LLM-powered Emo Diary App**  
-Backend using Express.js + MongoDB + LangChain.js  
-👉 *LLM-generated paraphrasing, emotion analysis & weekly summaries*
-
-🔗 GitHub: https://github.com/Pidugu-vivek/Moodly
-
----
-
 ### Thanks for visiting 😊  
 ⭐ Feel free to explore my repositories and drop a star!
