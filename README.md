@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" 
-     src="https://github-readme-stats.vercel.app/api?username=Pidugu-vivek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pidugu-vivek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidugu-vivek&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
